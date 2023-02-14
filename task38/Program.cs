@@ -19,7 +19,7 @@ for (int j = 0; j < numbers.Length; j++)
         }
 }
 
-Console.WriteLine($"всего {numbers.Length} чисел. Максимальное значение = {max}, минимальное значение = {min}");
+Console.WriteLine($"всего {numbers.Length} чисел. Максимальное значение = {max}, минимальное значение равно {min}");
 Console.WriteLine($"Разница между макс и мин значениями = {Math.Round((max - min), 1)}");
 
 void RandomNum(double[] numbers)
