@@ -1,0 +1,15 @@
+/Users/Maximcito1/Desktop/c#_hw/task54/bin/Debug/net6.0/task54
+/Users/Maximcito1/Desktop/c#_hw/task54/bin/Debug/net6.0/task54.deps.json
+/Users/Maximcito1/Desktop/c#_hw/task54/bin/Debug/net6.0/task54.runtimeconfig.json
+/Users/Maximcito1/Desktop/c#_hw/task54/bin/Debug/net6.0/task54.dll
+/Users/Maximcito1/Desktop/c#_hw/task54/bin/Debug/net6.0/task54.pdb
+/Users/Maximcito1/Desktop/c#_hw/task54/obj/Debug/net6.0/task54.csproj.AssemblyReference.cache
+/Users/Maximcito1/Desktop/c#_hw/task54/obj/Debug/net6.0/task54.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Maximcito1/Desktop/c#_hw/task54/obj/Debug/net6.0/task54.AssemblyInfoInputs.cache
+/Users/Maximcito1/Desktop/c#_hw/task54/obj/Debug/net6.0/task54.AssemblyInfo.cs
+/Users/Maximcito1/Desktop/c#_hw/task54/obj/Debug/net6.0/task54.csproj.CoreCompileInputs.cache
+/Users/Maximcito1/Desktop/c#_hw/task54/obj/Debug/net6.0/task54.dll
+/Users/Maximcito1/Desktop/c#_hw/task54/obj/Debug/net6.0/refint/task54.dll
+/Users/Maximcito1/Desktop/c#_hw/task54/obj/Debug/net6.0/task54.pdb
+/Users/Maximcito1/Desktop/c#_hw/task54/obj/Debug/net6.0/task54.genruntimeconfig.cache
+/Users/Maximcito1/Desktop/c#_hw/task54/obj/Debug/net6.0/ref/task54.dll
